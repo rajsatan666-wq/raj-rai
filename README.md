@@ -1,4 +1,4 @@
 # raj-rai
 this is my first git repository.
 <br>
-author-raj rai
+author-raj suraj
